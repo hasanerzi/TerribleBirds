@@ -11242,6 +11242,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 351460604017000222, guid: 781f9f2792578c6478ab93892bcbbb35, type: 3}
+      propertyPath: _nextLevelName
+      value: Level2
+      objectReference: {fileID: 0}
     - target: {fileID: 351460604017000223, guid: 781f9f2792578c6478ab93892bcbbb35, type: 3}
       propertyPath: m_Name
       value: LevelController
@@ -11255,6 +11259,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4150267592751502768, guid: a9053e4bf9fa12b4cae35b167ea1fd51, type: 3}
+      propertyPath: _launchForce
+      value: 1000
+      objectReference: {fileID: 0}
     - target: {fileID: 4150267592751502778, guid: a9053e4bf9fa12b4cae35b167ea1fd51, type: 3}
       propertyPath: m_Name
       value: RedBird
@@ -11359,6 +11367,10 @@ PrefabInstance:
     - target: {fileID: 5367741357216223511, guid: bd835e4d29258774096b82b9fae78989, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5367741357572866411, guid: bd835e4d29258774096b82b9fae78989, type: 3}
+      propertyPath: orthographic size
+      value: 5.625
       objectReference: {fileID: 0}
     - target: {fileID: 5367741358031459742, guid: bd835e4d29258774096b82b9fae78989, type: 3}
       propertyPath: m_Targets.Array.data[0].target
